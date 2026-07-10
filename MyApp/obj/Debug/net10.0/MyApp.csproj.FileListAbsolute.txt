@@ -1,0 +1,14 @@
+C:\Users\Ashok\Desktop\C#\MyApp\bin\Debug\net10.0\MyApp.exe
+C:\Users\Ashok\Desktop\C#\MyApp\bin\Debug\net10.0\MyApp.deps.json
+C:\Users\Ashok\Desktop\C#\MyApp\bin\Debug\net10.0\MyApp.runtimeconfig.json
+C:\Users\Ashok\Desktop\C#\MyApp\bin\Debug\net10.0\MyApp.dll
+C:\Users\Ashok\Desktop\C#\MyApp\bin\Debug\net10.0\MyApp.pdb
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfo.cs
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\MyApp.dll
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\refint\MyApp.dll
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\MyApp.pdb
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
+C:\Users\Ashok\Desktop\C#\MyApp\obj\Debug\net10.0\ref\MyApp.dll
