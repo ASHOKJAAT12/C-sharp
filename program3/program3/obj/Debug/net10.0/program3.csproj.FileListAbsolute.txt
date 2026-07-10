@@ -1,0 +1,15 @@
+C:\Users\Ashok\Desktop\C#\program3\program3\bin\Debug\net10.0\program3.exe
+C:\Users\Ashok\Desktop\C#\program3\program3\bin\Debug\net10.0\program3.deps.json
+C:\Users\Ashok\Desktop\C#\program3\program3\bin\Debug\net10.0\program3.runtimeconfig.json
+C:\Users\Ashok\Desktop\C#\program3\program3\bin\Debug\net10.0\program3.dll
+C:\Users\Ashok\Desktop\C#\program3\program3\bin\Debug\net10.0\program3.pdb
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.AssemblyInfoInputs.cache
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.AssemblyInfo.cs
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.csproj.CoreCompileInputs.cache
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.sourcelink.json
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.dll
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\refint\program3.dll
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.pdb
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\program3.genruntimeconfig.cache
+C:\Users\Ashok\Desktop\C#\program3\program3\obj\Debug\net10.0\ref\program3.dll
