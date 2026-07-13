@@ -1,4 +1,10 @@
 .vs/
 **/bin/
 **/obj/
+**/Properties/
 MyApp/
+**Designer.cs
+**.config
+**.resx
+**.csproj
+**Program.cs
